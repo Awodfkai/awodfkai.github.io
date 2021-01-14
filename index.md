@@ -5,5 +5,6 @@ A collection of projects and other assorted goodies
 I am currently studying at App Academy to build on skills I developed in math and problem solving and make them applicable in real world Computer Science scenarios.
 # Projects
 
- - future project 1
- - future project 2
+ - (http://mediumm.herokuapp.com/ "Medium Style Blog")
+ - (http://aa-video.herokuapp.com/ "Trideo - Video Hosting")
+ - (http://persistamp.herokuapp.com/ "Persistamp - Gamefied Habit Tracker")
